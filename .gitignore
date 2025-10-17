@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -28,3 +29,10 @@ Thumbs.db
 
 # Your custom untracked files
 push_profile.sh
+=======
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+>>>>>>> b34d642 (Initial working structure: Fabric Loom + protobuf setup)

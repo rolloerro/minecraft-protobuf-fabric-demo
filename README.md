@@ -1,4 +1,4 @@
-# 🧩 Minecraft Protobuf Fabric Demo  
+# 🧩 Minecraft Protobuf Fabric Demo   
 **Интеграция Minecraft (Fabric) + Protocol Buffers + внешние сервисы**
 
 [![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=openjdk)](#)

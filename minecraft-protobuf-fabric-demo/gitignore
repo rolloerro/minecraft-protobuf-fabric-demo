@@ -10,7 +10,7 @@ IDE
 *.iml
 *.ipr
 *.iws
-.vscode/
+.vscode/ 
 
 Logs
 
